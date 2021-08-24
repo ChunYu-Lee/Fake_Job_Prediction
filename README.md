@@ -3,7 +3,7 @@ This is a model to predict fake job posts. Dataset is job_train.csv.
 Installed packages: Pandas, NumPy, Scikit-learn.  
 
 In the dataset, there are 7 features and 1 label.  
-Features are:
+Features are:  
 title (the job title of this post - ex: Web Designer), location(the working place of this post - ex: US, TX, USA Southwest), description(the detail of this job description)  
 requirement(the criteria to fulfill the basic skills in this job)  
 telecomuting(does the employer leave the phone number, ex: 1 or 0)  
